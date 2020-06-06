@@ -1,1 +1,4 @@
-anything
+#This is  backend file
+call : functionBK_V1 ()
+Directory: /dginx/dginx_repo/test
+file: test1.file
