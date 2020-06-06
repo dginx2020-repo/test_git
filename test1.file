@@ -1,4 +1,25 @@
 # This is my test file for GIT testing
+#UI code
+my test code functionUI_V1 ()
+sub fubction UIF1()
+UI Line 1
+final line
+exit sf UIF1
+line 2
+line 3
+final line
+exit_UI_V1
+#Auth code
+my test code functionAUTH_V1 ()
+sub fubction AUTHF1()
+UI Line 1
+final line
+exit sf AUTHF1
+line 2
+line 3
+final line
+exit_AUTH_V1
+#Feactures code 
 my test code function1 ()
 like1
 line2
